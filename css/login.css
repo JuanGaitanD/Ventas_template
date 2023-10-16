@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+/* Login */
+#contenedor_login{
+    background-color: aliceblue;
+    max-width: 500px;
+    min-width: 200px;
+    border-radius: 50px;
+
+    margin-top: 200px;
+    margin-bottom: 200px;
+    margin-inline: auto;
+    padding: 50px;
+}
+
+#form_login{
+    display: grid;
+    grid-template-rows: 2;
+    gap: 20px;
+}

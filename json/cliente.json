@@ -1,0 +1,11 @@
+[
+    {
+        "id": 4,
+        "identif": "123",
+        "nombre": "123",
+        "direccion": "123",
+        "celular": "123",
+        "clave": "$2y$10$.cXJ3O1K561NqWuKR09BP.\/kWjuU9yZnYOz.lvl9HxjfLmM8Xzd5y",
+        "rol": "admin"
+    }
+]

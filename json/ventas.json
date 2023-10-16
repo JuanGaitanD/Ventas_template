@@ -1,0 +1,80 @@
+[
+    {
+        "id": 2,
+        "fecha": "16-10-2023",
+        "cliente": {
+            "id": 4,
+            "identif": "123",
+            "nombre": "123",
+            "direccion": "123",
+            "celular": "123",
+            "clave": "$2y$10$.cXJ3O1K561NqWuKR09BP.\/kWjuU9yZnYOz.lvl9HxjfLmM8Xzd5y",
+            "rol": "cliente"
+        },
+        "productos": [
+            {
+                "id": "90",
+                "nombre": "fiesta",
+                "precio": "16000",
+                "codigo": "7703588000419",
+                "cantidad": "2",
+                "subtotal": 32000
+            },
+            {
+                "id": "926",
+                "nombre": "Cuca Negra",
+                "precio": "3000",
+                "codigo": "1023012313",
+                "cantidad": "4",
+                "subtotal": 12000
+            },
+            {
+                "id": "83",
+                "nombre": "rothberg",
+                "precio": "19000",
+                "codigo": "3500610000560",
+                "cantidad": "2",
+                "subtotal": 38000
+            },
+            {
+                "id": "234",
+                "nombre": "H it naranja pi?a 237 ml",
+                "precio": "1700",
+                "codigo": "7702090014921",
+                "cantidad": "2",
+                "subtotal": 3400
+            }
+        ],
+        "Total": 85400
+    },
+    {
+        "id": 1,
+        "fecha": "27-09-2023",
+        "cliente": {
+            "id": 0,
+            "identif": "12",
+            "nombre": "Juan",
+            "direccion": "asdfasdf",
+            "celular": "3213123123",
+            "clave": "pizza",
+            "rol": "cliente"
+        },
+        "productos": [
+            {
+                "id": "6",
+                "nombre": "Singleton",
+                "precio": "115000",
+                "cantidad": "1",
+                "subtotal": 115000
+            },
+            {
+                "id": "9",
+                "nombre": "buchanans - 375",
+                "precio": "65000",
+                "cantidad": "2",
+                "subtotal": 130000
+            }
+        ],
+        "Total": 245000
+    }
+]

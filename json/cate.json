@@ -1,0 +1,150 @@
+[
+    {
+        "id": "1",
+        "categoria": "vinos"
+    },
+    {
+        "id": "2",
+        "categoria": "Tequilas"
+    },
+    {
+        "id": "3",
+        "categoria": "Whiskey"
+    },
+    {
+        "id": "4",
+        "categoria": "Chocolates"
+    },
+    {
+        "id": "5",
+        "categoria": "Ron"
+    },
+    {
+        "id": "6",
+        "categoria": "vino espumoso"
+    },
+    {
+        "id": "7",
+        "categoria": "brandy"
+    },
+    {
+        "id": "8",
+        "categoria": "vodka"
+    },
+    {
+        "id": "10",
+        "categoria": "Aperitivos"
+    },
+    {
+        "id": "11",
+        "categoria": "CREMA DE WHISKY"
+    },
+    {
+        "id": "12",
+        "categoria": "SABAJON"
+    },
+    {
+        "id": "13",
+        "categoria": "Pinia colada"
+    },
+    {
+        "id": "14",
+        "categoria": "DOBLE ANIS"
+    },
+    {
+        "id": "15",
+        "categoria": "Bacardi"
+    },
+    {
+        "id": "16",
+        "categoria": "cerveza"
+    },
+    {
+        "id": "17",
+        "categoria": "gaseosas"
+    },
+    {
+        "id": "18",
+        "categoria": "Jugos"
+    },
+    {
+        "id": "19",
+        "categoria": "AGUA"
+    },
+    {
+        "id": "20",
+        "categoria": "Energizantes"
+    },
+    {
+        "id": "21",
+        "categoria": "Yogurts Lacteos y algo mas"
+    },
+    {
+        "id": "22",
+        "categoria": "OMNILIFE"
+    },
+    {
+        "id": "23",
+        "categoria": "Cigarrillo"
+    },
+    {
+        "id": "24",
+        "categoria": "Mani"
+    },
+    {
+        "id": "26",
+        "categoria": "Popetas"
+    },
+    {
+        "id": "27",
+        "categoria": "Aseo medicamentos y mas"
+    },
+    {
+        "id": "28",
+        "categoria": "Ponques"
+    },
+    {
+        "id": "29",
+        "categoria": "PAQUETES"
+    },
+    {
+        "id": "30",
+        "categoria": "Gomitas"
+    },
+    {
+        "id": "31",
+        "categoria": "Dulceria"
+    },
+    {
+        "id": "32",
+        "categoria": "Chicles Mentas"
+    },
+    {
+        "id": "33",
+        "categoria": "Galletas"
+    },
+    {
+        "id": "36",
+        "categoria": "Salsas"
+    },
+    {
+        "id": "39",
+        "categoria": "aceite"
+    },
+    {
+        "id": 40,
+        "categoria": "Granos"
+    },
+    {
+        "id": 41,
+        "categoria": "Pastas"
+    },
+    {
+        "id": 42,
+        "categoria": "Girls"
+    },
+    {
+        "id": 43,
+        "categoria": "Pizza con mucho queso"
+    }
+]
